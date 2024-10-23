@@ -1,2 +1,2 @@
 # Personal-Blog-Website
-First Course in Front end Development
+This project is a basic project displaying basic skills in CSS and HTML.
